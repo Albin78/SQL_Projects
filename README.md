@@ -17,5 +17,4 @@ Analysed the employees who are layed off from different companies
 - SQL
 - MySQL
 
-
-The Dataset and Code available in next file
+The Dataset layoffs.csv and the query used for analysis are available 
